@@ -7,6 +7,11 @@ console.log(typeof type_name);
 console.log(num);
 console.log(typeof num);
 //remember to put s as capital String
+let name="shyam"
+let typename = Number(name)
+console.log(typeof typename);
+console.log(typename);
+
 
 
 
