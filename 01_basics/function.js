@@ -14,3 +14,11 @@ const sum=function(a,b){
 }
 
 console.log(sum(4,8))
+
+//3.arrow function
+ const product=(a,b)=>{
+    return a*b
+ }
+
+ console.log(product(2,4));
+ 
